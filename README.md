@@ -12,3 +12,7 @@ Section chosen: Paragraph 2 - 8
 The word I chose to summarize the IT consultant's adivce is madness. The king ask about the design for an embedded computer in the toaster. The IT consultant proceeded to describe how to design an app to cook any breakfast food. He spoke nothing of embedded systems for the toaster. At the end he listed the componets for a fully functional computer. He was so caught up in solving some other problem that he forgot to solve the problem presented to him. Moral of the story, don't overthink a problem so much that you forget the problem that you are solving in the first place.
 
 ![](https://github.com/bplcoder14/Parable-of-the-Toaster/blob/main/screenshot-2026-01-20-173806.png)
+
+Link to PC image: [https://static.vecteezy.com/system/resources/thumbnails/056/101/649/small/gaming-pc-white-background-on-transparent-background-png.png](https://static.vecteezy.com/system/resources/thumbnails/056/101/649/small/gaming-pc-white-background-on-transparent-background-png.png)
+
+Link to toaster image: [](https://st2.depositphotos.com/1000619/9004/i/450/depositphotos_90045182-stock-photo-toaster-isolated-on-white.jpg)
