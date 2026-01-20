@@ -15,4 +15,4 @@ The word I chose to summarize the IT consultant's adivce is madness. The king as
 
 Link to PC image: [https://static.vecteezy.com/system/resources/thumbnails/056/101/649/small/gaming-pc-white-background-on-transparent-background-png.png](https://static.vecteezy.com/system/resources/thumbnails/056/101/649/small/gaming-pc-white-background-on-transparent-background-png.png)
 
-Link to toaster image: [](https://st2.depositphotos.com/1000619/9004/i/450/depositphotos_90045182-stock-photo-toaster-isolated-on-white.jpg)
+Link to toaster image: [https://st2.depositphotos.com/1000619/9004/i/450/depositphotos_90045182-stock-photo-toaster-isolated-on-white.jpg](https://st2.depositphotos.com/1000619/9004/i/450/depositphotos_90045182-stock-photo-toaster-isolated-on-white.jpg)
